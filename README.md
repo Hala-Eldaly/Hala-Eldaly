@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Hala El-Daly
 
-<!--
-**Hala-Eldaly/Hala-Eldaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Testing Engineer | Computer Science Graduate**
 
-Here are some ideas to get you started:
+Passionate about quality assurance and creating seamless digital experiences. 
+Focused on delivering bug-free software through meticulous testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Education**: Bachelor's Degree in Computer Science
+
+### 📬 Contact Me
+
+📧 [halaeldaly039@gmail.com](mailto:halaeldaly039@gmail.com) | 
+🔗 [LinkedIn](https://www.linkedin.com/in/hala-eldaly-b91702230/)
+
+### 🏆 Coding Profiles
+
+<a href="https://leetcode.com/u/halaeldaly039/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+</a>
+
+<a href="https://codeforces.com/profile/SpongePob">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+</a>
