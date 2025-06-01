@@ -7,6 +7,7 @@ Passionate about all aspects of software testing with expertise in:
 - **Performance Testing**
 - **Manual Testing** 
 - **Building reliable test frameworks**
+- 
 Committed to delivering quality software through comprehensive testing strategies..
 
 🎓 **Education**: Bachelor's Degree in Computer Science
