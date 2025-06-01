@@ -2,15 +2,24 @@
 
 **Software Testing Engineer | Computer Science Graduate**
 
-Passionate about quality assurance and creating seamless digital experiences. 
-Focused on delivering bug-free software through meticulous testing.
+Passionate about all aspects of software testing with expertise in:
+- **Test Automation** (UI/API)
+- **Performance Testing**
+- **Manual Testing** 
+- **Building reliable test frameworks**
+Committed to delivering quality software through comprehensive testing strategies..
 
 🎓 **Education**: Bachelor's Degree in Computer Science
 
 ### 📬 Contact Me
 
-📧 [halaeldaly039@gmail.com](mailto:halaeldaly039@gmail.com) | 
-🔗 [LinkedIn](https://www.linkedin.com/in/hala-eldaly-b91702230/)
+<a href="mailto:halaeldaly039@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://www.linkedin.com/in/hala-eldaly-b91702230/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ### 🏆 Coding Profiles
 
